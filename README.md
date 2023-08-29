@@ -37,7 +37,7 @@ message.error({ type: 'error', content: 'error' })
 
 ### 授權條款
 
-這個 Repo 是基於 [MIT](https://choosealicense.com/licenses/mit/) 的。
+這個 Repo 是基於 [MIT]([https://choosealicense.com/licenses/mit/](https://github.com/Canis-Infinity/toast-message/blob/main/LICENSE)) 的。
 
 ## English
 
@@ -74,4 +74,4 @@ Download "`toastMessage.css`" and "`toastMessage.js`" files, then move them into
 
 ### License
 
-This repository is based on the [MIT](https://choosealicense.com/licenses/mit/) license.
+This repository is based on the [MIT]([https://choosealicense.com/licenses/mit/](https://github.com/Canis-Infinity/toast-message/blob/main/LICENSE)https://github.com/Canis-Infinity/toast-message/blob/main/LICENSE) license.
