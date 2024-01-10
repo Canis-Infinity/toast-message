@@ -189,7 +189,7 @@
 .toast i,
 .toast svg {
   scale: 1.25;
-  transform-origin: left center;
+  transform-origin: center center;
 }
 
 .toast.success i,
